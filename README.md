@@ -3,4 +3,4 @@ iTop: é uma plataforma de gerenciamento de serviços de TI de código aberto qu
 
 # Instalação
 Instalação do pacote opensource da plataforma iTop, automatizada.
-bash <(wget -qO- https://raw.githubusercontent.com/romesrmj/iTop/main/install.sh)
+bash <(wget -qO- https://github.com/romesrmj/iTop/blob/main/install.sh)
